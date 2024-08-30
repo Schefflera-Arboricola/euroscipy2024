@@ -1,3 +1,8 @@
 # euroscipy2024
 
-[Meeting Link](https://hackmd.io/@Schefflera-Arboricola/rylqrtQ90/edit)
+- [Main ppt pdf(compressed)](./EuroSciPy2024_talk.pdf)
+
+- [Proposal](https://pretalx.com/euroscipy-2024/talk/QLVBYY/)
+- [Sync Meeting Link](https://hackmd.io/@Schefflera-Arboricola/rylqrtQ90/edit)
+
+Thank you for stopping by :)
